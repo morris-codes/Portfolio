@@ -121,7 +121,7 @@ body {
   display: flex;
   align-items: center;
   padding: 0 100px;
-  background: url("/images/windows11.jpg") center/cover no-repeat;
+  background: url("./images/windows11.jpg") center/cover no-repeat;
 }
 
 .overlay {
